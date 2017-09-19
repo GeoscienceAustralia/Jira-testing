@@ -9,3 +9,5 @@ And more...
 
 Change primary email address to GA email
 <testing smart commits: comment>  <PYR-12> #comment <Commenting to jira from GitHub from GA email address>
+
+PYR-12 #comment try without the angle brackets 
