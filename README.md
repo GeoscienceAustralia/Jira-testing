@@ -1,6 +1,9 @@
 # Jira-testing
 Repository used for testing Jira integration
 
+
+Testing "smart commits"
+=======
 testing
 
 And testing some more
@@ -17,3 +20,4 @@ Using Smart Commits to move issues through a jira workflow require the use of th
 https://stackoverflow.com/questions/18255710/how-to-resolve-a-jira-issue-from-github-commit-messages 
 
 PYR-12 #Move to In Progress
+
