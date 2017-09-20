@@ -21,3 +21,9 @@ https://stackoverflow.com/questions/18255710/how-to-resolve-a-jira-issue-from-gi
 
 PYR-12 #Move to In Progress
 
+Reading indicates that if the transition is a phrase instead of a word, it needs to be hyphenated
+https://stackoverflow.com/questions/31753497/how-to-enable-smart-commit-for-custom-workflow-in-jira 
+
+Test again as:
+
+PYR-12 #Move-to-In-Progress
