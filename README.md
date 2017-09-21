@@ -34,3 +34,6 @@ Test impact of putting Smart Commit detail into Commit title instead of file
 Test 13
 Test Smart Commit in commit description
 Note: Primary email is GA and email is NOT private
+FAILED - jira failure to find PYR-12 email
+
+Checked and it's trying to find it in gaAutobots not gajira...
