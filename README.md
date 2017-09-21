@@ -28,4 +28,9 @@ Test again as:
 
 PYR-12 #Move-to-In-Progress
 
-Test impact of putting Smart Commit detail into Comit title instead of file
+Test impact of putting Smart Commit detail into Commit title instead of file
+- FAILED - Email from Jira saying that PYR-12 does not exist
+
+Test 13
+Test Smart Commit in commit description
+Note: Primary email is GA and email is NOT private
