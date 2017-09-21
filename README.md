@@ -27,3 +27,5 @@ https://stackoverflow.com/questions/31753497/how-to-enable-smart-commit-for-cust
 Test again as:
 
 PYR-12 #Move-to-In-Progress
+
+Test impact of putting Smart Commit detail into Comit title instead of file
