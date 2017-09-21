@@ -43,7 +43,12 @@ Testing Smart Commits to gaautobots jira for Shane to see
 - FAILED - Error message from jira "Can't find WT-3" yet the comment appeared BUT the commit in Developer section did not appear
 
 Test 16
+Application URLs in github changed from gaautobots to gajira
 Test Smart Commits commetn from GA github to gajira
 FAILED - Jira error email "can't find PYR-12"
+
+Test 17
+Application URLs in github changed from gaautobots to gajira
+Test Smart Commits comment from GA github to gaautobots jira
 
 
