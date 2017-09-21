@@ -44,4 +44,6 @@ Testing Smart Commits to gaautobots jira for Shane to see
 
 Test 16
 Test Smart Commits commetn from GA github to gajira
+FAILED - Jira error email "can't find PYR-12"
+
 
