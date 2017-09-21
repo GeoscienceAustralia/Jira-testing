@@ -41,6 +41,7 @@ Checked and it's trying to find it in gaAutobots not gajira...
 Test 14
 Testing Smart Commits to gaautobots jira for Shane to see
 - FAILED - Error message from jira "Can't find WT-3" yet the comment appeared BUT the commit in Developer section did not appear
+
 Test 16
 Test Smart Commits commetn from GA github to gajira
 
