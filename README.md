@@ -50,5 +50,6 @@ FAILED - Jira error email "can't find PYR-12"
 Test 17
 Application URLs in github changed from gaautobots to gajira
 Test Smart Commits comment from GA github to gaautobots jira
+Success - Jira "Failed" email, yet comment appeared in WT-3 and commit updated in Development section
 
 
