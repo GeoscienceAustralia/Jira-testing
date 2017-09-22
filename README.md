@@ -99,3 +99,7 @@ SUCCESS
 
 Test 31
 Test whether comments are added to jira when following a workflow transition without #comment tag
+FAIL - typo in issue_key
+
+Test 32 
+Redo Test 31 without typo
