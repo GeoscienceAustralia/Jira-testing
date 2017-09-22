@@ -83,3 +83,8 @@ SUCCESS
 Test 27
 Test Smart Commits for jira workflow transitions. "Blocked" to "Resolved"
 There is not transition to Blocked in gajira workflow. Try "Resolved"
+FAILED
+
+Test 28
+Per Test 27. Admin on jira can see that taisition name is "Resolve"
+
