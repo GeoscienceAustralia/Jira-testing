@@ -91,4 +91,5 @@ SUCCESS
 
 Test 29
 Test workflow tranistions "Resolved" to "In Progess" with transition "Back-to-In-Progess"
+SUCCESS
 
