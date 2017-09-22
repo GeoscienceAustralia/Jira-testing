@@ -66,3 +66,6 @@ SUCCESS - error email from Jira "can't find PYR-12" but Comments and Development
 
 Test 23
 Test Smart Commits for new branch
+SUCCESS - Writes to Development and Comments sections on ceating new branch. Jira error email...
+
+
