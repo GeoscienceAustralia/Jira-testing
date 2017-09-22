@@ -77,4 +77,9 @@ Test Smart Commits for jira workflow transitions
 SUCCESS - "To Do' to "In Progress". Uses transition not state.
 
 Test 26
-Test Test Smart Commits for jira workflow transitions. "In Porgress" to "Blocked"
+Test Smart Commits for jira workflow transitions. "In Porgress" to "Blocked"
+SUCCESS
+
+Test 27
+Test Smart Commits for jira workflow transitions. "Blocked" to "Resolved"
+There is not transition to Blocked in gajira workflow. Try "Resolved"
