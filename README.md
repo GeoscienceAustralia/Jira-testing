@@ -70,3 +70,7 @@ SUCCESS - Writes to Development and Comments sections on ceating new branch. Jir
 
 Test 24
 Testing smart commits from Neha's account
+SUCCESS - Comments updated for creation of new branh. No new comments for pull request and confirmation. All 3 actions updated in Development section
+
+Test 25
+Test Smart Commits for jira workflow transitions
