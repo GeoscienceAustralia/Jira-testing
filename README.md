@@ -54,4 +54,7 @@ Success - Jira "Failed" email, yet comment appeared in WT-3 and commit updated i
 
 Test 20
 Test smart commits to GAJIRA from Shane's account without existing personal OAuth to gaautobots
+SUCCESS - After Pull Request was accepted 
 
+Test 21
+Remove personal jira OAuth to gaautobots and test Smart Commits to gajira
