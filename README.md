@@ -52,4 +52,6 @@ Application URLs in github changed from gaautobots to gajira
 Test Smart Commits comment from GA github to gaautobots jira
 Success - Jira "Failed" email, yet comment appeared in WT-3 and commit updated in Development section
 
+Test 20
+Test smart commits to GAJIRA from Shane's account without existing personal OAuth to gaautobots
 
