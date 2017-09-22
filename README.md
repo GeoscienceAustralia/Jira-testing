@@ -73,4 +73,8 @@ Testing smart commits from Neha's account
 SUCCESS - Comments updated for creation of new branh. No new comments for pull request and confirmation. All 3 actions updated in Development section
 
 Test 25
-Test Smart Commits for jira workflow transitions
+Test Smart Commits for jira workflow transitions 
+SUCCESS - "To Do' to "In Progress". Uses transition not state.
+
+Test 26
+Test Test Smart Commits for jira workflow transitions. "In Porgress" to "Blocked"
