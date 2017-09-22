@@ -93,3 +93,5 @@ Test 29
 Test workflow tranistions "Resolved" to "In Progess" with transition "Back-to-In-Progess"
 SUCCESS
 
+Test 30
+Test to confirm that text before the Jira issue_key is ignored in Smart Commits
