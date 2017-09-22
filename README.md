@@ -86,5 +86,9 @@ There is not transition to Blocked in gajira workflow. Try "Resolved"
 FAILED
 
 Test 28
-Per Test 27. Admin on jira can see that taisition name is "Resolve"
+Per Test 27. Admin on jira can see that Transition name is "Resolve"
+SUCCESS
+
+Test 29
+Test workflow tranistions "Resolved" to "In Progess" with transition "Back-to-In-Progess"
 
