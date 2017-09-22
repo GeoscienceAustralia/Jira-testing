@@ -58,3 +58,8 @@ SUCCESS - After Pull Request was accepted
 
 Test 21
 Remove personal jira OAuth to gaautobots and test Smart Commits to gajira
+FAIL - Updates in Development section, but does not write to Comments
+
+Test 22
+Re-test per 21. NOTE: Typo in Smart Commit message in Test 21 was likely issue
+
