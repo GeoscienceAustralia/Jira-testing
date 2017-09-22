@@ -95,3 +95,4 @@ SUCCESS
 
 Test 30
 Test to confirm that text before the Jira issue_key is ignored in Smart Commits
+SUCCESS
