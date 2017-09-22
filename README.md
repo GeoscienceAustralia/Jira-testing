@@ -68,4 +68,5 @@ Test 23
 Test Smart Commits for new branch
 SUCCESS - Writes to Development and Comments sections on ceating new branch. Jira error email...
 
-
+Test 24
+Testing smart commits from Neha's account
