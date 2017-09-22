@@ -62,4 +62,7 @@ FAIL - Updates in Development section, but does not write to Comments
 
 Test 22
 Re-test per 21. NOTE: Typo in Smart Commit message in Test 21 was likely issue
+SUCCESS - error email from Jira "can't find PYR-12" but Comments and Development sections of Jira both updated
 
+Test 23
+Test Smart Commits for new branch
