@@ -103,3 +103,8 @@ FAIL - typo in issue_key
 
 Test 32 
 Redo Test 31 without typo
+FAIL 
+
+Test 33
+Test workflow transition and adding comments in chain
+
